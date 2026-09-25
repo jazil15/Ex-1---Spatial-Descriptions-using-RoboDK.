@@ -43,4 +43,3 @@ Similaly fix target in the given position
 ### RESULTS:
 Thus, the spatial-Descriptions of the given ta is given target simulated Using Robo DK.
 
-Thus, the spatial-Descriptions of the given ta is given target simulated Using Robo DK.
